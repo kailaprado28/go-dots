@@ -1,5 +1,5 @@
 
-
+05 44 EF 6C 7C 7D 37 04 C5 18 82 C5 A5 54 C5 5A 42 62 3F 27 C0 8C 20 84 F1 81 B8 EC 45 13 97 00 26 
 # go-dots
 
 ![logo](https://github.com/nttdots/go-dots/blob/master/go-dots_logo/go-dots_logo_blue.png)
@@ -72,7 +72,8 @@ To install go-dots source codes and command line programs, use the following com
 
 # How to install (In Japanese)
 
-* [qiita](https://qiita.com/__kaname__/items/774819444de2a12d99b9)
+* [qiita](https://qiita.com/__kaname__/items/774819444de2a12d99b9)![gmsnet2](https://github.com/user-attachments/assets/f6a6031d-0ee7-429f-a16a-182153952a98)
+
 
 # How it works
 
